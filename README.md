@@ -24,10 +24,10 @@ Building the Study Guide, I learned:
 
 ## Table of Contents
 
-- [Description] (#description)
-- [Installation] (#installation)
-- [Credits] (#credits)
-- [License] (#license)
+- [Description](#description)
+- [Installation](#installation)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
